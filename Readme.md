@@ -1,0 +1,1 @@
+base image for golang static builds from scratch
